@@ -1,9 +1,9 @@
-![blacktheme.png](blacktheme.png)
+<img src="blacktheme.png" width="200px"/>
 # 🎮 AnimeBox
 
 **Современное Android-приложение для любителей аниме с элементами геймификации и коллекционирования персонажей**
 
-![lighttheme.png](lighttheme.png)
+<img src="lighttheme.png" width="200px"/>
 
 ## 📱 Описание
 
