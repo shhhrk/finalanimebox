@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#B194E6</color>
+    <color name="purple_500">#DA66EF</color>
+    <color name="purple_700">#D671E7</color>
+    <color name="teal_200">#D76EE9</color>
+    <color name="teal_700">#BF54D1</color>
+    <color name="black">#D16BE2</color>
+    <color name="white">#F1ACFD</color>
+    <color name="soft_pink">#D560E9</color>
+    <color name="soft_pink_primary">#8A0AA0</color>
+    <color name="soft_pink_accent">#F9F7FA</color>
+    <color name="soft_pink_dark">#FFFFFF</color>
+    <color name="soft_blue">#C067D0</color>
+    <color name="mint">#430E4D</color>
+</resources>

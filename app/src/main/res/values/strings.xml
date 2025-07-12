@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anime Lootboxes</string>
+    <string-array name="anime_boxes">
+        <item>Naruto</item>
+        <item>Kaguyasama</item>
+        <item>Chainsawman</item>
+        <item>BocchitheRocker</item>
+    </string-array>
+</resources>
