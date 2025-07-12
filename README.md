@@ -1,4 +1,4 @@
-![darktheme.png](darktheme.png)
+![darktheme.png](blacktheme.png)
 
 # 🎮 AnimeBox
 
